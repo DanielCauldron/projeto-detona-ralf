@@ -20,5 +20,5 @@ Olá! Este código em JavaScript define um jogo simples no qual você precisa cl
 **initialize():** Chama a função initialize() para iniciar o jogo quando o script é carregado.
 
 Esse é um jogo básico em que o objetivo é acertar nos quadrados inimigos antes que o tempo se esgote. Divirta-se jogando!
-[Clique aqui]().
+[Clique aqui]( https://danielcauldron.github.io/projeto-detona-ralf/).
 
